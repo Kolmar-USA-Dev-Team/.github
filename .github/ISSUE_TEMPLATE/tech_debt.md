@@ -1,37 +1,20 @@
-me: Technical Debt
-
-about: Track refactors or improvements
-
+---
+name: Technical Debt
+about: Track refactors or improvementss
 title: "[Tech Debt]: "
-
 labels: tech-debt
-
 assignees: ""
-
--------------
-
+---
 ## Description
-
 Describe the technical debt.
-
 ---
-
-## Why This Matters
-
+## Why This Matterss
 Explain the impact on maintainability, performance, or reliability.
-
 ---
-
-## Proposed Refactor
-
+## Proposed Refactors
 Describe how the code should be improved.
-
 ---
-
 ## Acceptance Criteria
-
-* [ ] Refactor implemented
-
+* [ ] Refactor implementeds
 * [ ] Tests updated
-
 * [ ] Documentation updated
