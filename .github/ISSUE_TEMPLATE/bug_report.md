@@ -1,15 +1,9 @@
-me: Bug Report
-
+---
+name: Bug Report
 about: Report a problem or regression
-
 title: "[Bug]: "
-
 labels: bug
-
-assignees: ""
-
--------------
-
+---
 ## Summary
 
 Brief description of the bug.
