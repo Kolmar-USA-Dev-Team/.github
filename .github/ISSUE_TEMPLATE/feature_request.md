@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Request or track development of a new feature
-title: "[Feature]: "s
+title: "[Feature]: "
 labels: feature
 ---
 ## Summary
