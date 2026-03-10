@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Implement a task for a feature
-title: "[Task]: "
+type: Task
 labels: task
 ---
 
