@@ -1,13 +1,13 @@
 ---
-name: Feature Request
-about: Request or track development of a new feature
-title: "[Feature]: "
-labels: feature
+name: Task
+about: Implement a task for a feature
+title: "[Task]: "
+labels: task
 ---
 
 ## Summary
 
-Briefly describe the feature.
+Briefly describe the task.
 
 Example:
 > Implement worker lookup endpoint to validate scanned worker badges.
@@ -16,7 +16,7 @@ Example:
 
 ## Problem / Motivation
 
-Why is this feature needed?
+Why is this task necessary to implement the parent feature?
 
 Example:
 > The frontend needs a way to validate worker badges when scanned so the supervisor can confirm the correct worker is being logged.
