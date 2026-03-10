@@ -43,7 +43,7 @@ Example response:
 ```json
 {
     "id": "12345678",
-    "name": "John Smith"s
+    "name": "John Smith"
 }
 ```
 
