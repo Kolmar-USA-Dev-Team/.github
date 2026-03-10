@@ -4,6 +4,7 @@ about: Report a problem or regression
 title: "[Bug]: "
 labels: bug
 ---
+
 ## Summary
 
 Brief description of the bug.
