@@ -1,7 +1,7 @@
 ---
 name: Technical Debt
 about: Track refactors or improvementss
-title: "[Tech Debt]: "
+title: ""
 labels: tech-debt
 assignees: ""
 ---
